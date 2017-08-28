@@ -19,6 +19,5 @@
 - Please state what your question is or how we can help you use Pearl:
 
 ### If you want to *propose an enhancement* or *have a new-feature request*, please provide us with a detailed description of the enhancement or the request below:
->
+
 ### Is there anything else you would like us to know?
->
